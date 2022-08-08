@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ProjectD
+title: Find Dietitian
 permalink: /about
 comments: true
 ---
